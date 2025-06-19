@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jalexgo
-- 👀 I’m interested in DevOps, Cloud .NET, Open Source
-- 🌱 I’m currently learning Terraform, Azure, AWS, containers, Software Architecture
+- 👀 I’m interested in DevOps, Cloud JavaScript, React, NestJS, Open Source
+- 🌱 I’m currently learning Terraform, AWS, containers, K8s, Software Architecture
 - 💞️ I’m looking to collaborate on DevOps or Architecture Work
 - 📫 How to reach me ...
 
